@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TeamBeta</string>
+    <string name="home">Home</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="about_us">About us</string>
+    <string name="name">name</string>
+    <string name="teambeta_gmail_com">teambeta@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_beta_home">Team beta home</string>
+
+</resources>
